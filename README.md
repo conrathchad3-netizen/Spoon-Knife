@@ -1,4 +1,9 @@
-### Well hello there!
+☐ Fork the repository
+☐ Open your fork
+☐ Copy its HTTPS URL
+☐ git clone ...
+☐ cd Spoon-Knife
+☐ git remote -v### Well hello there!
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
